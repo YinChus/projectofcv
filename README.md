@@ -10,6 +10,7 @@
 #3：智绘书院：https://github.com/YinChus/wisdomdrawingschool
 #4：美团考试题：
 https://lianlianl.netlify.app/
+<img width="1613" height="928" alt="image" src="https://github.com/user-attachments/assets/3be27142-6c60-4209-9036-70c0e4ba249a" />
 
 #5：武汉市市场监督可视化：
 #https://public.tableau.com/app/profile/.43267698/viz/4_16794039821080/2
@@ -19,5 +20,5 @@ https://lianlianl.netlify.app/
 
 #4：美团考试题：
 https://lianlianl.netlify.app/
-<img width="412" height="908" alt="image" src="https://github.com/user-attachments/assets/1f81920b-3b12-4f49-8cd1-1e650e3c401b" /><img width="437" height="885" alt="image" src="https://github.com/user-attachments/assets/f4b9a00f-2548-4372-8c97-20cd0bfeebdd" />
+
 
