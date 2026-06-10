@@ -8,10 +8,6 @@
 
 
 #3：智绘书院：https://github.com/YinChus/wisdomdrawingschool
-#4：美团考试题：
-https://lianlianl.netlify.app/
-https://venture-motion-play.nocode.host
-<img width="1613" height="928" alt="image" src="https://github.com/user-attachments/assets/3be27142-6c60-4209-9036-70c0e4ba249a" />
 
 #5：武汉市市场监督可视化：
 #https://public.tableau.com/app/profile/.43267698/viz/4_16794039821080/2
